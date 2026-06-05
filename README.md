@@ -39,6 +39,7 @@ ASCII animation turns characters and symbols into moving art — from old-school
 - [Climage](https://github.com/pnappa/CLImage) - Python library to convert images to ASCII art for terminal display.
 - [ascii-art](https://www.npmjs.com/package/ascii-art) - Node.js library for generating ASCII art text and image conversions.
 - [gif-frames](https://github.com/benwiley4000/gif-frames) - Extract frames from GIF files (useful for ASCII animation pipelines).
+- [Text for VUP](https://github.com/mouse114514/text-for-VUP) - Lightweight V‑tuber puppet tool driven by webcam face/hand tracking. Design your character with multiline ASCII art, assign cells to roles (eyes, mouth, hands), and each part moves independently in real time. (Python)
 
 ## Classic Works
 
